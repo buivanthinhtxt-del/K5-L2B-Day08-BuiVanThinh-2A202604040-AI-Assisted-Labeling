@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: thinh
 - Repo bài nộp (URL): https://github.com/GlennQuagmiree/K5-L2B-Day08-BuiVanThinh-2A202604040-AI-Assisted-Labeling
-- Commit chốt bài (hash): HEAD
+- Commit chốt bài (hash): 5bc8c61
 - Máy: Windows 10/11, CPU (không có GPU)
 - CVAT (Docker): v2.81.0
 
