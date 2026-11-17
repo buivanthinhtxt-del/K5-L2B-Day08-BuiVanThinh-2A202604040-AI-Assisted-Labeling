@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: buivanthinhtxt-del
 - Repo bài nộp (URL): https://github.com/buivanthinhtxt-del/K5-L2B-Day08-BuiVanThinh-2A202604040-AI-Assisted-Labeling
-- Commit chốt bài (hash): 5bc8c61
+- Commit chốt bài (hash): 9f79079
 - Máy: Windows 10/11, CPU (không có GPU)
 - CVAT (Docker): v2.81.0
 
